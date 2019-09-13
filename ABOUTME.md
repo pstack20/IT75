@@ -9,6 +9,7 @@ My college experience so far started in 1984:
 - [x] AS in Computer Programming
 - [x] BS in International Business
 - [x] MBA with a focus on Information Systems and Data Analytics
+
 I'm just taking Python to learn more current languages.
 
 My computer experience so far is wide ranged. I've done pretty much everything from Database Administration, to information security,
